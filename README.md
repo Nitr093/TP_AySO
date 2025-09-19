@@ -1,2 +1,3 @@
-# TP_AySO
-TP1 ARQ Y SO 2025
+Alumno: Agustin Milani
+Division: N°114
+Turno: Mañana
